@@ -11,10 +11,10 @@ function preload(){
   trex_running = loadAnimation("trex1.png","trex3.png","trex4.png");
   trex_collided = loadAnimation("trex_collided.png");
   
-  groundImage = loadImage("ground2.png");
+  groundImage = lssoadImage("ground2.png");
   
-  cloudImage = loadImage("cloud.png");
- 
+  cloudImage = loadImage("scloud.png");
+ ss
 }
 
 function setup() {
